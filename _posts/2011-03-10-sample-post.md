@@ -83,8 +83,8 @@ Make any link standout more when applying the `.btn` class.
 {% endhighlight %}
 
 <div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-success">密西西比第三节课VB是</a></div>
+<div markdown="0"><a href="#" class="btn btn-warning">机会好isU盾吃</a></div>
 <div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
 
