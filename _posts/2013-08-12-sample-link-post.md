@@ -11,4 +11,4 @@ This theme supports **link posts**, made famous by John Gruber. To use, just add
 
 > And this is how a quote looks.
 
-Some [link](http://renyuanz.github.io) can also be shown.
+撒大声地 [link](http://renyuanz.github.io) 啊实打实

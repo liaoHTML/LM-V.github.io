@@ -57,7 +57,7 @@ end
 {% endhighlight %}
 
 
-### Standard Code Block
+### 撒啊啊是
 
     {% raw %}
     <nav class="pagination" role="navigation">
@@ -71,7 +71,7 @@ end
     {% endraw %}
 
 
-### Fenced Code Blocks
+### 撒大声地
 
 To modify styling and highlight colors edit `/_sass/_coderay.scss`. Line numbers and a few other things can be modified in `_config.yml`. Consult [Jekyll's documentation](http://jekyllrb.com/docs/configuration/) for more information.
 
